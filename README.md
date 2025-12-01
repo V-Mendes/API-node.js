@@ -230,9 +230,9 @@ A API retorna mensagens de erro apropriadas:
 
 ## 🎓 Desenvolvido para
 
-Projeto acadêmico - Disciplina de Desenvolvimento de APIs
+Projeto pessoal - Desenvolvimento de API em node.js usando o javascript.
 
 ---
 
-**Autor:** Estudante  
-**Data:** 2023
+**Autor:** Vinícius Mendes  
+**Data:** 01/12/2025
